@@ -1,0 +1,47 @@
+name: eco_challenge
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  intl: 0.17.0
+  package_info_plus: 8.0.0
+  cached_network_image: 3.3.1
+  fimber: 0.6.5
+  flutter_svg:
+  fluttertoast: ^8.0.9
+  jwt_decode: ^0.3.1
+  shared_preferences: 2.0.13
+  flutter_secure_storage: ^8.0.0
+  internet_connection_checker: ^1.0.0+1
+  flutter_inappwebview:
+  shimmer:
+  carousel_slider: ^4.0.0
+  qr_code_dart_scan: ^0.9.3
+  confetti: ^0.8.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/drawables/app_icon.jpeg"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/drawables/
