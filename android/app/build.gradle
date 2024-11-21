@@ -52,13 +52,28 @@ android {
         multiDexEnabled true
     }
 
+//    signingConfigs {
+//        release {
+//            keyAlias 'voterIQ'//keystoreProperties['keyAlias']
+//            keyPassword 'VoterIQ123@'//keystoreProperties['keyPassword']            //Nikul1234@ Nikul1234@
+//            storeFile file('voteriq.jks')
+//            storePassword 'VoterIQ123@'//keystoreProperties['storePassword']            //Nikul1234@ Nikul1234@
+//        }
+//    }
+
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig signingConfigs.debug
+            minifyEnabled true
+            shrinkResources true
+        }
+        debug {
+            signingConfig signingConfigs.debug
+            minifyEnabled true
+            shrinkResources true
         }
     }
+
 }
 
 flutter {

@@ -14,7 +14,6 @@ class AppIcons {
   static String verifyImage = "${_drawables}verify.png";
   static String unVerifiedImage = "${_drawables}unVerified.png";
   static String logoWhite = "${_drawables}logo-white.png";
-  static String homeBackground = "${_drawables}home_back.jpg";
   static String logo = "${_drawables}logo.png";
   static String placeHolder = "${_drawables}logo.png";
   static String iconClose = "${_drawables}close.png";

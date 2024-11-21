@@ -59,11 +59,11 @@ class _ImpactDetailScreenState extends State<ImpactDetailScreen>
           children: [
             ClipRRect(
               borderRadius: BorderRadius.circular(24),
-              child: loadCachedNetworkImage(
-                imageUrl: currentImpact.image,
+              child: Image.asset(
+                currentImpact.image, // Replace with your image path
                 height: 200,
                 width: double.infinity,
-                boxFit: BoxFit.cover,
+                fit: BoxFit.cover,
               ),
             ),
             16.rVerticalSizedBox(),

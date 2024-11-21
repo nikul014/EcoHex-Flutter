@@ -14,17 +14,17 @@ class DataConstants {
       "impactDetails": [
         {
           "pageTitle": "What is Environmentally Friendly Clothing?",
-          "image": "https://thehollyspirit.org/wp-content/uploads/2022/02/Eco-Friendly-organic_clothing.jpeg",
+          "image": "assets/icons/drawables/fashion1.jpeg",
           "text": "Environmentally friendly clothing is made from materials that have minimal impact on the environment. These include organic cotton, hemp, bamboo, and recycled fabrics. These materials are grown and processed using fewer chemicals and resources compared to conventional fabrics."
         },
         {
           "pageTitle": "How Eco-Friendly Clothing Saves the Environment",
-          "image": "https://fact-news.com.ua/wp-content/uploads/3-78-780x470.jpg",
+          "image": "assets/icons/drawables/fashion2.jpg",
           "text": "By opting for eco-friendly materials, we reduce the carbon footprint of clothing production. These materials require less water, pesticides, and synthetic dyes, which in turn helps to preserve water resources, reduce pollution, and minimize landfill waste."
         },
         {
           "pageTitle": "The Benefits of Organic Cotton",
-          "image": "https://raineclothing.com/cdn/shop/articles/eco_friendly_fashion_terms.jpg?v=1688895848",
+          "image": "assets/icons/drawables/fashion3.webp",
           "text": "Organic cotton is a key player in sustainable fashion. Unlike conventional cotton, organic cotton is grown without the use of synthetic fertilizers or pesticides, making it less harmful to the environment and the people who work with it."
         }
       ],
@@ -85,17 +85,17 @@ class DataConstants {
       "impactDetails": [
         {
           "pageTitle": "The Impact of Plastic Waste",
-          "image": "https://img.freepik.com/premium-photo/cute-anime-girl-carrying-recycling-bin-japanese-neighborhood_1282444-133522.jpg",
+          "image": "assets/icons/drawables/plastic1.avif",
           "text": "Plastic waste is one of the biggest environmental issues today. It takes hundreds of years for plastic to decompose, and during this time, it harms wildlife and pollutes our oceans, rivers, and forests."
         },
         {
           "pageTitle": "How Reducing Plastic Use Helps",
-          "image": "https://images.stockcake.com/public/6/8/3/68358d8f-934a-4a1d-bc62-3fc92358209b_large/recycling-plastic-bottles-stockcake.jpg",
+          "image": "assets/icons/drawables/plastic2.webp",
           "text": "By reducing our use of single-use plastics, we help to reduce the amount of plastic waste that ends up in landfills and oceans. Simple changes like using reusable bags, bottles, and containers can make a significant difference."
         },
         {
           "pageTitle": "Alternatives to Plastic",
-          "image": "https://universal-bags.com/wp-content/uploads/2023/07/non-woven-bags-vs-plastic-bags-finding-an-alternative-of-plastic-bags.webp",
+          "image": "assets/icons/drawables/plastic3.webp",
           "text": "There are many eco-friendly alternatives to plastic, such as glass, metal, bamboo, and biodegradable plastics. These materials break down more easily and do not contribute to the growing plastic pollution problem."
         }
       ],
