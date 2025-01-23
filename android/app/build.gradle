@@ -54,10 +54,10 @@ android {
 
 //    signingConfigs {
 //        release {
-//            keyAlias 'voterIQ'//keystoreProperties['keyAlias']
-//            keyPassword 'VoterIQ123@'//keystoreProperties['keyPassword']            //Nikul1234@ Nikul1234@
-//            storeFile file('voteriq.jks')
-//            storePassword 'VoterIQ123@'//keystoreProperties['storePassword']            //Nikul1234@ Nikul1234@
+//            keyAlias 'v'//keystoreProperties['keyAlias']
+//            keyPassword 'V123@'//keystoreProperties['keyPassword']            //Nikul1234@ Nikul1234@
+//            storeFile file('viq.jks')
+//            storePassword 'V123@'//keystoreProperties['storePassword']            //Nikul1234@ Nikul1234@
 //        }
 //    }
 

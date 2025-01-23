@@ -1,7 +1,6 @@
 /// All Mobile Paths Goes Here
 
 const String internetPageViewRoute = 'internetPageViewRoute';
-// todo below implementation is pending
 const String introductionViewRoute = 'introductionViewRoute';
 const String splashViewRoute = 'splashViewRoute';
 
@@ -15,8 +14,5 @@ const String profileViewRoute = 'profileViewRoute';
 const String webViewRoute = 'webViewRoute';
 const String moreViewRoute = 'moreViewRoute';
 const String historyViewRoute = 'historyViewRoute';
-
-//todo ui changes
 const String communityChallengeViewRoute = 'communityChallengeViewRoute';
 
-//weekly challenge
